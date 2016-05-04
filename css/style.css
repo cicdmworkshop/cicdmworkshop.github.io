@@ -1075,7 +1075,7 @@
 /* One */
 
 	#one:before {
-		background-image: url("../images/pittsburgh.png");
+		background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Pittsburgh_dawn_city_pano.jpg/1920px-Pittsburgh_dawn_city_pano.jpg");
 		background-position: top right;
 		background-repeat: no-repeat;
 		background-size: cover;
