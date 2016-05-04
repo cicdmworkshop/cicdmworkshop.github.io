@@ -1075,13 +1075,13 @@
 /* One */
 
 	#one:before {
-		/*background-image: url("../images/banner.jpg");*/
+		background-image: url("../images/pittsburgh.png");
 		background-position: top right;
 		background-repeat: no-repeat;
 		background-size: cover;
 		content: '';
 		display: block;
-		height: 0em;
+		height: 15em;
 		width: 100%;
 	}
 
